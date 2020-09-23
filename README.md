@@ -15,6 +15,7 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 
   * https://github.com/terraform-providers/terraform-provider-aws/pull/14918
   * https://github.com/terraform-providers/terraform-provider-aws/pull/15132
+  * https://github.com/terraform-providers/terraform-provider-aws/pull/15306
 
 #### Terraform EKS Aws Module
 
