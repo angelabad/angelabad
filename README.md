@@ -4,6 +4,12 @@ Devops with more than 15 years of experience implementing and maintaining large 
 
 Experienced and comfortable working in teams and groups as well as telecommuting and working from a distance for many years.
 
+### Personal Projects
+
+  * [Debian Developer](https://qa.debian.org/developer.php?email=angel%40debian.org)
+  * [Ubuntu Motu Developer](https://launchpad.net/~angelabad)
+  * [Marvel Match](https://marvelmatch.com) ([Source Code](https://github.com/angelabad/marvel-match))
+
 ### Published Terraform Modules
 
   * [AWS Msk Cluster](https://registry.terraform.io/modules/angelabad/msk-cluster/aws/)
