@@ -19,6 +19,7 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 
 #### Terraform AWS Provider
 
+  * https://github.com/hashicorp/terraform-provider-aws/pull/14218
   * https://github.com/hashicorp/terraform-provider-aws/pull/14918
   * https://github.com/hashicorp/terraform-provider-aws/pull/15132
   * https://github.com/hashicorp/terraform-provider-aws/pull/15306
