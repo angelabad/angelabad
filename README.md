@@ -28,7 +28,11 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 #### Terraform EKS Aws Module
 
   * https://github.com/terraform-aws-modules/terraform-aws-eks/pull/594
-  
+
+#### Ghorg
+
+  * https://github.com/gabrie30/ghorg/pull/400
+
 #### Buefy
 
   * https://github.com/buefy/buefy/pull/1378/
