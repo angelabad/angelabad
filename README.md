@@ -29,6 +29,11 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 
   * https://github.com/terraform-aws-modules/terraform-aws-eks/pull/594
 
+#### Floci
+
+  * https://github.com/floci-io/floci/pull/3243
+  * https://github.com/floci-io/floci/pull/3257
+
 #### Ghorg
 
   * https://github.com/gabrie30/ghorg/pull/400
