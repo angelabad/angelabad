@@ -1,48 +1,49 @@
 ## Angel Abad 👋
 
-Devops with more than 15 years of experience implementing and maintaining large scale servers. Expert in Linux (Debian and Ubuntu above all). Experience in virtual environments, cloud computing, load balancing, autoscaling, monitoring… Extensive knowledge of infrastructure as code, Terraform , AWS Services, Google Cloud, Docker, Kubernetes (among others) and knowledge about scripting languages and Golang.
+Cloud Architect and DevOps Engineer with more than 25 years of experience working on Linux infrastructure, from system administration to designing and running cloud platforms. Expert in Linux (Debian and Ubuntu above all), with deep experience in cloud computing (AWS, Azure, Google Cloud), infrastructure as code (Terraform, CloudFormation, Packer), containers (Docker, Kubernetes), load balancing, autoscaling and monitoring. Comfortable with scripting languages and Golang.
 
-Experienced and comfortable working in teams and groups as well as telecommuting and working from a distance for many years.
+Official Debian Developer since 2009 and Ubuntu MOTU Developer, so open source and Linux are at the core of how I work.
+
+Used to working in teams and remotely for many years.
 
 ### Personal Projects
 
   * [Debian Developer](https://qa.debian.org/developer.php?email=angel%40debian.org)
-  * [Ubuntu Motu Developer](https://launchpad.net/~angelabad)
+  * [Ubuntu MOTU Developer](https://launchpad.net/~angelabad)
   * [Marvel Match](https://marvelmatch.com) ([Source Code](https://github.com/angelabad/marvel-match))
 
 ### Published Terraform Modules
 
-  * [AWS Msk Cluster](https://registry.terraform.io/modules/angelabad/msk-cluster/aws/)
-  * [AWS Vpc Dns Forwarder](https://registry.terraform.io/modules/angelabad/vpc-dns-forwarder/aws/)
+  * [AWS MSK Cluster](https://registry.terraform.io/modules/angelabad/msk-cluster/aws/)
+  * [AWS VPC DNS Forwarder](https://registry.terraform.io/modules/angelabad/vpc-dns-forwarder/aws/)
 
 ### Merged PRs
 
 #### Terraform AWS Provider
 
-  * https://github.com/hashicorp/terraform-provider-aws/pull/14218
-  * https://github.com/hashicorp/terraform-provider-aws/pull/14918
-  * https://github.com/hashicorp/terraform-provider-aws/pull/15132
-  * https://github.com/hashicorp/terraform-provider-aws/pull/15306
-  * https://github.com/hashicorp/terraform-provider-aws/pull/15348
+  * [#14218](https://github.com/hashicorp/terraform-provider-aws/pull/14218)
+  * [#14918](https://github.com/hashicorp/terraform-provider-aws/pull/14918)
+  * [#15132](https://github.com/hashicorp/terraform-provider-aws/pull/15132)
+  * [#15306](https://github.com/hashicorp/terraform-provider-aws/pull/15306)
+  * [#15348](https://github.com/hashicorp/terraform-provider-aws/pull/15348)
 
-#### Terraform EKS Aws Module
+#### Terraform AWS EKS Module
 
-  * https://github.com/terraform-aws-modules/terraform-aws-eks/pull/594
+  * [#594](https://github.com/terraform-aws-modules/terraform-aws-eks/pull/594)
 
 #### Floci
 
-  * https://github.com/floci-io/floci/pull/3243
-  * https://github.com/floci-io/floci/pull/3257
+  * [#3243](https://github.com/floci-io/floci/pull/3243)
+  * [#3257](https://github.com/floci-io/floci/pull/3257)
 
 #### Ghorg
 
-  * https://github.com/gabrie30/ghorg/pull/400
+  * [#400](https://github.com/gabrie30/ghorg/pull/400)
 
 #### Buefy
 
-  * https://github.com/buefy/buefy/pull/1378/
-  
+  * [#1378](https://github.com/buefy/buefy/pull/1378)
+
 #### pm2_nagios
 
-  * https://github.com/poysama/pm2_nagios/pull/1
- 
+  * [#1](https://github.com/poysama/pm2_nagios/pull/1)
